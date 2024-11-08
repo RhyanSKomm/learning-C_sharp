@@ -2,7 +2,7 @@ namespace ExemploMatriz
 {
     public class Matriz
     {
-        static void Main(string[] args)
+        static void exemplo()
         {
             int [,] matriz = new int [3, 3]{
                 {1,2,3},

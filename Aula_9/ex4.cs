@@ -16,7 +16,7 @@ namespace Aula_9_4
         }
         
 
-        static void Main(string[] args)
+        static void ex4()
         {
             Diagonal somaDiagonal = Soma;
             int [,] matriz = new int [3, 3]

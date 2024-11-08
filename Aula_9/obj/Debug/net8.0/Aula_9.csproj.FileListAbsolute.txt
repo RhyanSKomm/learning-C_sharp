@@ -4,8 +4,6 @@ C:\Users\rhyansantiago\Desktop\c#\Aula_9\bin\Debug\net8.0\Aula_9.runtimeconfig.j
 C:\Users\rhyansantiago\Desktop\c#\Aula_9\bin\Debug\net8.0\Aula_9.dll
 C:\Users\rhyansantiago\Desktop\c#\Aula_9\bin\Debug\net8.0\Aula_9.pdb
 C:\Users\rhyansantiago\Desktop\c#\Aula_9\obj\Debug\net8.0\Aula_9.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\rhyansantiago\Desktop\c#\Aula_9\obj\Debug\net8.0\Aula_9.AssemblyInfoInputs.cache
-C:\Users\rhyansantiago\Desktop\c#\Aula_9\obj\Debug\net8.0\Aula_9.AssemblyInfo.cs
 C:\Users\rhyansantiago\Desktop\c#\Aula_9\obj\Debug\net8.0\Aula_9.csproj.CoreCompileInputs.cache
 C:\Users\rhyansantiago\Desktop\c#\Aula_9\obj\Debug\net8.0\Aula_9.sourcelink.json
 C:\Users\rhyansantiago\Desktop\c#\Aula_9\obj\Debug\net8.0\Aula_9.dll
